@@ -1,0 +1,7 @@
+books missing: 
+
+-(Computer Sience Press) - The Elements of Artificial Intelligence - An Introduction Using Lisp
+-Artificial Intelligence 3Rd Ed (1998)
+-Prentice Hall - Artificial Intelligence- A Modern Approach -Russell
+- The MIT Press - 2003 - The Handbook of Brain Theory and Neural Networks - 2nd Edition - ISBN 0262011972 - 1309s - TLFeBOOK
+
